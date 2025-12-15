@@ -79,9 +79,7 @@ Thumbs.db
 # Logs
 *.log
 
-# Credentials
-cookies.txt
-*.cookies
+# Local files
 cookies.json
 temp.py
-ppxl_test_report_*.json
+dump.js
