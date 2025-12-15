@@ -1,0 +1,4 @@
+{
+    "next-auth.csrf-token": "your-csrf-token-here",
+    "next-auth.session-token": "your-session-token-here"
+}
