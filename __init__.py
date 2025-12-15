@@ -1,11 +1,5 @@
-"""
-Perplexity AI Lite - Lightweight Python client for Perplexity AI API.
-
-A simplified version that removes browser automation and account creation,
-focusing only on making API calls with existing cookies.
-"""
-
-from client import Client
+from .client import Client
+from .config import MODELS, MODEL_INFO, SEARCH_MODES, get_model_info
 
 __version__ = "2.0.0"
-__all__ = ["Client"]
+__all__ = ["Client", "MODELS", "MODEL_INFO", "SEARCH_MODES", "get_model_info"]
