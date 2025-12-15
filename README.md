@@ -1,4 +1,4 @@
-# Perplexity AI Lite
+# PPXL Lite
 
 A lightweight Python client for the Perplexity AI API. Use your existing Free, Pro, or Max account to access Perplexity's AI capabilities via Python without paying per-API-call pricing.
 
