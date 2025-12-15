@@ -1,0 +1,327 @@
+{
+    "turbo": {
+        "name": "Turbo",
+        "description": "Fast default model",
+        "backend": "search"
+    },
+    "pplx_pro_upgraded": {
+        "name": "Perplexity Pro Upgraded",
+        "description": "Upgraded Pro model",
+        "backend": "search"
+    },
+    "pplx_pro": {
+        "name": "Perplexity Pro",
+        "description": "Perplexity Pro model",
+        "backend": "search"
+    },
+    "experimental": {
+        "name": "Sonar",
+        "description": "Perplexity's fast model",
+        "backend": "search"
+    },
+    "gpt4o": {
+        "name": "GPT-4o",
+        "description": "OpenAI's versatile model",
+        "backend": "search"
+    },
+    "gpt41": {
+        "name": "GPT-4.1",
+        "description": "OpenAI's advanced model",
+        "backend": "search"
+    },
+    "gpt5": {
+        "name": "GPT-5",
+        "description": "OpenAI's latest model",
+        "backend": "search"
+    },
+    "gpt51": {
+        "name": "GPT-5.1",
+        "description": "OpenAI's latest model",
+        "backend": "search"
+    },
+    "gpt52": {
+        "name": "GPT-5.2",
+        "description": "OpenAI's latest model",
+        "backend": "search"
+    },
+    "gpt5_thinking": {
+        "name": "GPT-5 Thinking",
+        "description": "OpenAI's latest model with thinking",
+        "backend": "search"
+    },
+    "gpt51_thinking": {
+        "name": "GPT-5.1 Thinking",
+        "description": "OpenAI's latest model with thinking",
+        "backend": "search"
+    },
+    "gpt52_thinking": {
+        "name": "GPT-5.2 Thinking",
+        "description": "OpenAI's latest model with thinking",
+        "backend": "search"
+    },
+    "gpt5_pro": {
+        "name": "GPT-5 Pro",
+        "description": "OpenAI's latest, most powerful reasoning model",
+        "backend": "search"
+    },
+    "gpt4": {
+        "name": "GPT-4",
+        "description": "OpenAI's previous generation model",
+        "backend": "search"
+    },
+    "claude2": {
+        "name": "Claude Sonnet 4.0",
+        "description": "Anthropic's advanced model",
+        "backend": "search"
+    },
+    "claude3opus": {
+        "name": "Claude 3 Opus",
+        "description": "Anthropic's previous generation model",
+        "backend": "search"
+    },
+    "claude35haiku": {
+        "name": "Claude 3.5 Haiku",
+        "description": "Anthropic's smaller model",
+        "backend": "search"
+    },
+    "claude37sonnetthinking": {
+        "name": "Claude Sonnet 4.0 Thinking",
+        "description": "Anthropic's reasoning model",
+        "backend": "search"
+    },
+    "claude40opus": {
+        "name": "Claude Opus 4.0",
+        "description": "Anthropic's Opus reasoning model",
+        "backend": "search"
+    },
+    "claude40opusthinking": {
+        "name": "Claude Opus 4.0 Thinking",
+        "description": "Anthropic's Opus reasoning model with thinking",
+        "backend": "search"
+    },
+    "claude41opus": {
+        "name": "Claude Opus 4.1",
+        "description": "Anthropic's Opus reasoning model",
+        "backend": "search"
+    },
+    "claude41opusthinking": {
+        "name": "Claude Opus 4.1 Thinking",
+        "description": "Anthropic's Opus reasoning model with thinking",
+        "backend": "search"
+    },
+    "claude45opus": {
+        "name": "Claude Opus 4.5",
+        "description": "Anthropic's Opus reasoning model",
+        "backend": "search"
+    },
+    "claude45opusthinking": {
+        "name": "Claude Opus 4.5 Thinking",
+        "description": "Anthropic's Opus reasoning model with thinking",
+        "backend": "search"
+    },
+    "claude45sonnet": {
+        "name": "Claude Sonnet 4.5",
+        "description": "Anthropic's newest advanced model",
+        "backend": "search"
+    },
+    "claude45sonnetthinking": {
+        "name": "Claude Sonnet 4.5 Thinking",
+        "description": "Anthropic's newest reasoning model",
+        "backend": "search"
+    },
+    "claude_ombre_eap": {
+        "name": "Claude Ombre",
+        "description": "Anthropic's research preview",
+        "backend": "search"
+    },
+    "claude_lace_eap": {
+        "name": "Claude Lace",
+        "description": "Anthropic's opus research preview",
+        "backend": "search"
+    },
+    "gemini": {
+        "name": "Gemini",
+        "description": "Previous version of Google's Gemini model",
+        "backend": "search"
+    },
+    "gemini2flash": {
+        "name": "Gemini 2.5 Pro",
+        "description": "Google's latest model",
+        "backend": "search"
+    },
+    "gemini25pro": {
+        "name": "Gemini 2.5 Pro",
+        "description": "Google's latest model",
+        "backend": "search"
+    },
+    "gemini30pro": {
+        "name": "Gemini 3 Pro",
+        "description": "Google's newest reasoning model",
+        "backend": "search"
+    },
+    "grok": {
+        "name": "Grok 3 Beta",
+        "description": "xAI's Grok 3 model",
+        "backend": "search"
+    },
+    "grok2": {
+        "name": "Grok-2",
+        "description": "xAI's latest model",
+        "backend": "search"
+    },
+    "grok4": {
+        "name": "Grok 4",
+        "description": "xAI's reasoning model",
+        "backend": "search"
+    },
+    "grok4nonthinking": {
+        "name": "Grok 4",
+        "description": "xAI's advanced model",
+        "backend": "search"
+    },
+    "grok41reasoning": {
+        "name": "Grok 4.1",
+        "description": "xAI's latest reasoning model",
+        "backend": "search"
+    },
+    "grok41nonreasoning": {
+        "name": "Grok 4.1",
+        "description": "xAI's latest advanced model",
+        "backend": "search"
+    },
+    "kimik2thinking": {
+        "name": "Kimi K2 Thinking",
+        "description": "Moonshot AI's latest reasoning model",
+        "backend": "search"
+    },
+    "llama_x_large": {
+        "name": "Llama X Large",
+        "description": "Meta's large Llama model",
+        "backend": "search"
+    },
+    "mistral": {
+        "name": "Mistral",
+        "description": "Mistral AI model",
+        "backend": "search"
+    },
+    "copilot": {
+        "name": "Copilot",
+        "description": "Legacy Pro Search",
+        "backend": "search"
+    },
+    "r1": {
+        "name": "R1 1776",
+        "description": "Perplexity's unbiased reasoning model",
+        "backend": "search"
+    },
+    "o3mini": {
+        "name": "o3-mini",
+        "description": "OpenAI's reasoning model",
+        "backend": "search"
+    },
+    "o3": {
+        "name": "o3",
+        "description": "OpenAI's reasoning model",
+        "backend": "search"
+    },
+    "o3pro": {
+        "name": "o3-pro",
+        "description": "OpenAI's powerful reasoning model",
+        "backend": "search"
+    },
+    "o4mini": {
+        "name": "o4-mini",
+        "description": "OpenAI's latest reasoning model",
+        "backend": "research"
+    },
+    "pplx_reasoning": {
+        "name": "Reasoning",
+        "description": "Advanced problem solving",
+        "backend": "search"
+    },
+    "pplx_sonar_internal_testing": {
+        "name": "Sonar Testing - Alpha",
+        "description": "Sonar model alpha variant",
+        "backend": "search"
+    },
+    "pplx_sonar_internal_testing_v2": {
+        "name": "Sonar Testing - Beta",
+        "description": "Sonar model beta variant",
+        "backend": "search"
+    },
+    "pplx_alpha": {
+        "name": "Research",
+        "description": "Fast and thorough for routine research",
+        "backend": "research"
+    },
+    "pplx_beta": {
+        "name": "Labs",
+        "description": "Multi-step tasks with advanced troubleshooting",
+        "backend": "studio"
+    },
+    "pplx_gamma": {
+        "name": "Gamma",
+        "description": "Fast model for routine research",
+        "backend": "search"
+    },
+    "pplx_study": {
+        "name": "Study",
+        "description": "Fast model for routine research",
+        "backend": "study"
+    },
+    "o3pro_research": {
+        "name": "o3-pro",
+        "description": "OpenAI's powerful reasoning model",
+        "backend": "research"
+    },
+    "o3_research": {
+        "name": "o3",
+        "description": "OpenAI's reasoning model",
+        "backend": "research"
+    },
+    "claude40sonnet_research": {
+        "name": "Claude Sonnet 4.0",
+        "description": "Anthropic's advanced model",
+        "backend": "research"
+    },
+    "claude40sonnetthinking_research": {
+        "name": "Claude Sonnet 4.0 Thinking",
+        "description": "Anthropic's reasoning model",
+        "backend": "research"
+    },
+    "claude40opus_research": {
+        "name": "Claude Opus 4.0",
+        "description": "Anthropic's Opus reasoning model",
+        "backend": "research"
+    },
+    "claude40opusthinking_research": {
+        "name": "Claude Opus 4.0 Thinking",
+        "description": "Anthropic's Opus reasoning model with thinking",
+        "backend": "research"
+    },
+    "o3pro_labs": {
+        "name": "o3-pro",
+        "description": "OpenAI's powerful reasoning model",
+        "backend": "studio"
+    },
+    "o3_labs": {
+        "name": "o3",
+        "description": "OpenAI's reasoning model",
+        "backend": "studio"
+    },
+    "claude40sonnetthinking_labs": {
+        "name": "Claude Sonnet 4.0 Thinking",
+        "description": "Anthropic's reasoning model",
+        "backend": "studio"
+    },
+    "claude40opusthinking_labs": {
+        "name": "Claude Opus 4.0 Thinking",
+        "description": "Anthropic's Opus reasoning model with thinking",
+        "backend": "studio"
+    },
+    "testing_model_c": {
+        "name": "Testing Model C",
+        "description": "Debug model for testing",
+        "backend": "search"
+    }
+}
