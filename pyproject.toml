@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ppxl_lite"
+version = "2.0.0"
+description = "A lightweight Python client for Perplexity AI API"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "Anas Ghani", email = "your-email@example.com"}
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+]
+keywords = ["perplexity", "ai", "search", "api", "client", "lightweight"]
+requires-python = ">=3.8"
+dependencies = [
+    "curl-cffi>=0.5.7",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/perplexity-ai"
+Repository = "https://github.com/yourusername/perplexity-ai.git"
+Issues = "https://github.com/yourusername/perplexity-ai/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ppxl_lite*"]
